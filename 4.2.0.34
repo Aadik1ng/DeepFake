@@ -1,0 +1,2 @@
+Requirement already satisfied: opencv-contrib-python in d:\wav2lip\wav2lip\wav2lip\lib\site-packages (4.6.0.66)
+Requirement already satisfied: numpy>=1.13.3 in d:\wav2lip\wav2lip\wav2lip\lib\site-packages (from opencv-contrib-python) (1.19.5)
